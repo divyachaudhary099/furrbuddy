@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="@drawable/pagebkg">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="605dp"
+        android:layout_margin="40dp"
+        app:cardCornerRadius="30dp"
+        app:cardElevation="20dp">
+
+        <TextView
+            android:id="@+id/MapText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="70dp"
+            android:text="Use our map to:"
+            android:textAlignment="center"
+            android:textColor="@color/orange"
+            android:textSize="36sp"
+            android:textStyle="bold" />
+
+        <View
+            android:id="@+id/r_1"
+            android:layout_width="58dp"
+            android:layout_height="56dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="163dp"
+            android:background="@drawable/mylocation" />
+
+        <TextView
+            android:id="@+id/ttvtvt5tg6g"
+            android:layout_width="192dp"
+            android:layout_height="28dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="91dp"
+            android:layout_marginTop="177dp"
+            android:gravity="top"
+            android:text="check your location"
+            android:textColor="@color/red"
+            android:textSize="20sp" />
+
+        <View
+            android:id="@+id/r_2"
+            android:layout_width="98dp"
+            android:layout_height="61dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="0dp"
+            android:layout_marginTop="219dp"
+            android:background="@drawable/petstorelocation" />
+
+        <TextView
+            android:id="@+id/ttvtbybvtvt"
+            android:layout_width="192dp"
+            android:layout_height="28dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="91dp"
+            android:layout_marginTop="233dp"
+            android:gravity="top"
+            android:text="find pet stores"
+            android:textColor="@color/orange"
+            android:textSize="20sp" />
+
+        <View
+            android:id="@+id/r_3"
+            android:layout_width="78dp"
+            android:layout_height="46dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="280dp"
+            android:background="@drawable/veterinaryclinic" />
+
+        <TextView
+            android:id="@+id/ttvtvtvyb6y"
+            android:layout_width="192dp"
+            android:layout_height="28dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="91dp"
+            android:layout_marginTop="289dp"
+            android:gravity="top"
+            android:text="find veterinary clinics"
+            android:textColor="@color/green"
+            android:textSize="20sp" />
+
+        <View
+            android:id="@+id/r_4"
+            android:layout_width="38dp"
+            android:layout_height="36dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="341dp"
+            android:background="@drawable/search" />
+
+        <TextView
+            android:id="@+id/yygy66yy"
+            android:layout_width="192dp"
+            android:layout_height="28dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="91dp"
+            android:layout_marginTop="345dp"
+            android:gravity="top"
+            android:text="search by address"
+            android:textColor="@color/blue"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/showMap"
+            android:layout_width="161dp"
+            android:layout_height="66dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="215dp"
+            android:backgroundTint="@color/orange"
+            android:text="Show Map"
+            android:textColor="@color/white" />
+
+    </androidx.cardview.widget.CardView>
+</FrameLayout>

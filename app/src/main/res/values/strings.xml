@@ -1,0 +1,390 @@
+<resources>
+    <string name="app_name">PetCare</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    //dogs
+    <string name="dogs">\nEvery dog deserves good food and feeding them the right type and amount of food is crucial to their well-being. Here are our top tips for feeding your dog a healthy diet.
+\nYour dog needs a well-balanced diet to keep them happy and in good shape. Make sure you feed them a diet suitable for their age, and lifestyle and that matches their health needs.
+\n
+        \nRemember:
+\n
+        \n1) Feed your dog at least once a day, unless your vet advises otherwise.
+\n
+        \n2) Human food is not ideal, as most of our meals will not provide dogs with the nutrition they need. Some human foods, such as chocolate and onions, can even be poisonous to dogs.
+\n
+        \n3) Give them the right amount to make sure they do not become under or overweight. The amount of food your dog needs depends on their diet, lifestyle and health.
+    </string>
+    <string name="dogsDesc">\nAs well as feeding them the right food, give your dog constant access to clean drinking water. Without water, your dog could become seriously ill, quickly - within hours.\n
+    </string>
+
+    //cats
+    <string name="cats">\nFeeding your cat a well-balanced diet will keep your pet healthy and happy. Here is what you need to know about feeding your cat.
+\nCats need a well-balanced, meat-based diet to stay fit and healthy - they can not be vegetarian. You will need to feed them a diet that is suitable for their age, state of health and lifestyle.
+\n
+        \n1) No human food: most typical human food will not meet the nutritional needs of cats, and some human foods can even be poisonous to cats, such as onions.
+\n
+        \n2) Little and often: cats naturally eat several small meals per day. Make sure you feed your cat every day and try to split their daily intake into several small meals (unless your vet advises otherwise).
+\n
+        \n3) Read the instructions: always read and follow the feeding instructions that relate to the cat food you buy.
+\n
+        \n4) Feed the right amount: the amount your cat needs to eat depends on their age, lifestyle and health, so adjust the amount of food according to their specific needs. If a cat eats more food than they need, they will become overweight and may suffer. Equally, if they are eating too little, they will become underweight.
+\n
+        \n5) If you provide a litter tray, position their food and water well away from it. Most cats will not eat if their food is placed too close to their toilet site.
+    </string>
+    <string name="catsDesc">\n
+        Make sure your cat always has clean drinking water available. They need it to stay healthy and could become severely ill within hours without water. Remember, cows milk is not a substitute for water.Talk to a vet if your cats eating and drinking habits change - it could be a sign they are ill.\n
+    </string>
+
+
+    //rabbits
+    <string name="rabbits">\nFresh, clean drinking water and good quality hay and grass should make up the majority of your rabbits diet. A rabbits digestive system needs hay or grass to function properly so a healthy supply is extremely important. You can supplement with leafy greens and a small amount of pellets. Root vegetables such as carrots or fruit, should only be given in small portions as a treat, as rabbits do not naturally eat these type of foods. Always avoid muesli-style food, as  these are unhealthy for rabbits and has a number of associated health problems.
+\n
+        \nRabbits need:
+\n
+        \n1) Fresh clean drinking water continuously, checked twice daily. Ensure water does not freeze in winter. Without water rabbits become seriously ill.
+\n
+        \n2) Good quality hay and grass, always available, should constitute the majority of rabbits diets.
+\n
+        \n3) Hay and grass as they are much more important than commercial rabbit pellets (nuggets).
+\n
+        \n4) Healthy diets. Avoid muesli-style foods as they are associated with health problems. See muesli is unhealthy for rabbits for advice on transferring rabbits to healthier diets. Contact your vet for dietary advice.
+\n
+        \n5) Root vegetables (e.g. carrots) or fruit only in small amounts as treats. Do not feed other treats as they may harm your rabbits.
+\n
+        \n6) Safe, washed leafy green vegetables or herbs or weeds daily. Take care - some plants are poisonous.
+\n
+        \n7) Feeding quantities adjusted to prevent them from becoming underweight or overweight.
+\n
+        \n8) The amount they eat and drink monitoring. If these habits change, droppings gets less or stop, or soft droppings stick to their back end, talk to your vet immediately as they could be seriously ill.
+    </string>
+    <string name="rabbitsDesc">\nRabbits must always have a sufficient amount of clean water.\n</string>
+
+
+    //ferrets
+    <string name="ferrets">\nFerrets are strict carnivores and need a well-balanced, meat-based diet to stay fit and healthy. Ferrets can not be vegetarians. It is thought that ferrets can not digest large amounts of fibre or complex carbohydrates (starches), such as bread and cereals. Do not feed these to your ferrets!
+\n
+        \nTo keep your ferrets healthy and happy, they will need a diet:
+\n
+        \n1) Suitable for their age
+\n
+        \n2) Health
+\n
+        \n3) Level of activity
+\n
+        \n4) Whether they have young.
+\n
+        \nYour ferrets will need to feed throughout the day. This is because they have high metabolic rates which means they need to eat little and often. They will need to have food available at all times. It is a good idea to encourage your ferrets to forage for their food. You could hide their food or treat or use food toys.
+\n
+        \nRemember:
+\n
+        \n1) Read and follow the feeding instructions for any ferret foods that you buy.
+\n
+        \n2) Only give your ferret treats in small amounts. Suitable ferret treats include pieces of meat and cat or ferret treats.
+\n
+        \n3) Make any changes to their diet gradually. Sudden changes may upset their digestive system.
+</string>
+    <string name="ferretsDesc">\nMake sure your ferrets have constant access to clean drinking water, as they will become seriously ill without it. Check their water supply twice a day and make sure it does not freeze if your ferret is outdoors in winter. Talk to your vet if your ferrets eating and drinking habits change, as it could be a sign that they are ill.\n</string>
+
+
+    //rodents
+    <string name="rodents">\nHere are our tips for making sure your rats have the diet they need to stay happy and healthy. It is easy to feed your rats a fresh, healthy and balanced diet by feeding them commercial food pellets. Always feed them food designed specifically for rats, rather than pellets for rabbits, guinea pigs, hamsters or other herbivores - these will not give rats the nutrients they need.
+\n
+        \nRemember:
+\n
+        \n1) Give them some variety - rats are omnivores, so you can supplement their diet with small amounts of fruit, vegetables, cooked egg, grains and seeds. Give these as part of their daily food allowance, not in addition to it, or it could cause obesity or health problems.
+\n
+        \n2) Avoid harmful foods such as onion, citrus fruits, walnuts, rhubarb, grapes, raisins and chocolate.
+\n
+        \n3) Avoid sugars and high-fat foods such as dairy. Rats like sweet and fatty food, but it can cause health problems if they eat too much of it, so only use these as treats and rewards during training.
+\n
+        \n Rats feed mainly at dawn and dusk, and drink mostly during the night, so feed your rats twice a day - in the morning and evening. Remove any uneaten food, and change the amount so that they eat all of it and stay a healthy weight.
+\n
+        \n Give your rats their food in open ceramic bowls (not metal, as this creates ultrasound noise) - this allows them to carry food and handle or eat it wherever they want. It is a good idea to encourage natural foraging behaviour, as rats enjoy holding and manipulating food in their paws.
+\n
+        \n Remember, rats need to eat fresh faeces - it is natural behaviour that helps them absorb all the nutrients and minerals they need to stay healthy. Stopping this could cause nutritional deficiencies and health problems.
+    </string>
+    <string name="rodentsDesc">\nGive your rats a continuous supply of fresh, clean drinking water, in bottles rather than bowls to avoid contamination. Give them several bottles so that all your rats can drink at the same time, as this means they will not be competing for water and means they will still have water if one of the bottles gets blocked. Check their water bottles morning and evening and refill them twice a day to ensure they are never thirsty. Clean them regularly to stop algae and bacteria build-up, and check them everyday for blockages and leaks.\n</string>
+
+
+    //horses
+    <string name="horses">\nFeeding your horse or pony the right things is key to keeping them happy and healthy. On this page, we will look at what they should eat and what to watch out for in your horses diet.
+\n
+        \nFirst and foremost, make sure your horse has constant access to fresh, clean water and let them graze outside as much as possible - ideally 24 hours a day. Without fresh grass, horses can develop gut disorders and stomach ulcers.
+\n
+        \nRemember:
+\n
+        \n1)  Remove toxic plants - before letting your horse loose in a paddock, be sure to remove toxic plants, shrubs and trees such as ragwort and yew. Always dig up toxic plants, even if they are dead, and take them completely out of the reach of horses.
+\n
+        \n2) Not all pastures provide enough nutrition, and many will be too high in calories. You may still need to give your horse extra hard feed and forage to maintain their ideal body weight, particularly between late autumn and early spring.
+\n
+        \n3) If your horse is stabled, you should give them plenty of forage, as feeding horses diets low in forage and high in concentrates - such as hard feeds like cubes or grains - puts them at risk of digestive problems. Only feed your horse good quality, mould-free and dust-free forage, and only give them food designed for horses.
+\n
+        \n4) Never give them lawn clippings or large amounts of fermentable foods such as apples, as they can be toxic and even fatal.
+\n
+        \nChanges in your horses lifestyle, such as increased or reduced work, movement on and off pasture, pregnancy, lactation and ageing will mean changes to your horses diet. An equine nutritionist or an equine vet can advise you on this. Always introduce changes gradually, over a couple of weeks, as rapid changes in a horses diet can make them ill.
+\n
+        \nIf your horses feeding habits change, consult your vet, as your horse could be sick.
+    </string>
+    <string name="horsesDesc">\nAll horses must have access to clean drinking water 24 hours a day. Horses should always be provided with more water than they need so that there is no risk of them not getting enough to drink.
+\n
+        \nAn average 500kg (approximately 15hh) horse drinks around 30-50 litres a day. This amount may be higher in hot weather (because the horse will sweat more and use up water reserves in the body) and if working very hard (again the horse will sweat more). A mare with a foal needs more because the milk that she is making to feed the foal requires water. Horses that are grazing on rapidly growing grass will usually drink less because the grass that they are eating has a high water content compared to more mature grass and hay which is very dry.\n
+    </string>
+
+
+    //fish
+    <string name="fish">\nFish need feeding regularly but what to feed them and how much is important to their health and welfare.
+\n
+        \nYou need to buy the right type of food for your fish. For example, do not buy your goldfish tropical fish flakes. This is because they contain different levels of nutrients.
+\n
+        \nIt is also important to supplement fish food flakes with other foods for balanced nutrition and enrichment.
+\n
+        \nFor example:
+\n
+        \n1) Goldfish love chopped vegetables such as peas and spinach.
+\n
+        \n2) Tropical fish vary in what they will eat. You could try frozen (fully thawed first) fish, crumbled boiled egg yolk and some lettuce leaf depending on the species.
+\n
+        \n3) Certain species of pleco need vegetables, such as potatoes, or pieces of wood that they graze on.
+\n
+        \n4) Water fleas (daphnia) or brine shrimps, are an excellent supplement for tropical fish and are widely available in frozen packs. Only feed small amounts of them to goldfish due to their high protein content.
+\n
+        \nDifferent tropical fish species may need their food given to them in different ways. Middle and bottom-dwelling species will need their food in quickly sinking food or compressed food tablets. Nocturnal species, like some catfish, need to be fed last thing at night.
+\n
+        \nHow much to feed your fish:
+\n
+        \n1) Build a feeding routine for your pet fish.
+\n
+        \n2) Adjust the quantity of food according to the size and quantity of fish in your tank.
+\n
+        \n3) Always feed as much as the fish can eat within two to five minutes
+\n
+        \n4) Do not overfeed them.
+\n
+        \n5) We recommend feeding fish two or three times a day rather than just once a day. Fish will learn the routine, if you usually feed them around 7am, 12pm and 6pm every day, you will find them waiting for you at those times!
+    </string>
+    <string name="fishDesc">\nFish do not need water because they live in a humid environment. As for the aquarium, A good rule of thumb for aquarium size is one gallon of water per every inch of full-grown fish.\n</string>
+
+
+    //pasta
+    <string name="command1"> \nYou will want to begin training a recall (come when called) in a quiet area and indoors.
+\n
+        \n1) Sit with your puppy and say their name or the word “come.”
+\n
+        \n2) Each time you say “come/name,” give your puppy a treat. They don’t have to do anything yet! Just repeat the word and give a treat. Easy!
+\n
+        \n3) Next, drop a treat on the floor near you. As soon as your puppy finishes the treat on the ground, say their name again. When they look up, give them another treat.
+\n
+        \n4) Repeat this a couple of times until you can begin tossing the treat a little further away, and they can turn around to face you when you say their name. Note: Avoid repeating your puppy’s name; saying it too often when they don’t respond makes it easier for them to ignore it. Instead, move closer to your puppy and go back to a step where they can be successful at responding to their name the first time.
+\n
+        \n5) Once your puppy can turn around to face you, begin adding movement and making the game more fun! Toss a treat on the ground and take a few quick steps away while calling your puppys name. They should run after you because chase is fun!
+\n
+        \n6) When they catch you, give them a lot of praise, treats, or play with a tug toy. Coming to you should be fun! Continue building on these games with longer distances and in other locations. When training outside (always in a safe, enclosed area), it may be helpful to keep your puppy on a long leash at first.
+\n
+        \nWhen your puppy comes to you, do not reach out and grab them. This can be confusing or frightening for some dogs. If your puppy is timid, kneel and face them sideways and offer treats as you reach for the collar.
+\n
+        \nNever call your dog to punish! This will only teach them that you are unpredictable and that it is a good idea to avoid you. Always reward your dog heavily for responding to their name, even if they have been up to mischief!
+   \n </string>
+
+    //maggi
+    <string name="command2"> \nIn competition obedience training, “heel” means the dog is walking on your left side with their head even with your knee while you hold the leash loosely. Puppy training can be a little more relaxed, with the goal being that they walk politely on a loose leash without pulling. Some trainers prefer to say “let’s go” or “forward” instead of “heel.”
+\n
+        \nWhatever cue you choose, be consistent and always use the same word. Whether your puppy walks on your left side or your right side is completely up to you. But be consistent about where you want them, so they don’t get confused and learn to zig-zag in front of you.
+\n
+        \n1) First, make sure your puppy is comfortable wearing a leash. This can feel strange at first, and some puppies may bite the leash. Give your puppy treats as you put the leash on each time.
+\n
+        \n2) Then, stand next to your puppy with the leash in a loose loop and give them several treats in a row for standing or sitting next to your leg.
+\n
+        \n3) Take one step forward and encourage them to follow by giving another treat as they catch up.
+\n
+        \n4) Continue giving treats to your puppy at the level of your knee or hip as you walk forward.
+\n
+        \n5) When they run in front of you, simply turn in the opposite direction, call them to you, and reward them in place. Then continue. Gradually begin giving treats further apart (from every step to every other step, every third step, and so on).
+\n
+        \n6) Eventually, your dog will walk happily at your side whenever they’re on the leash. Allow your dog plenty of time to sniff and “smell the roses” on your walks. When they’ve had their sniffing time, give the cue “Let’s go!” in a happy voice and reward them for coming back into position and walking with you.
+  \n  </string>
+
+
+    //cake
+    <string name="command3">\nThere are two different methods for showing your puppy what “sit” means.
+\n
+        \nThe first method is called capturing.
+\n
+        \n1) Stand in front of your puppy holding some of their dog food or treats.
+\n
+        \n2) Wait for them to sit. Then say “yes” and give them a treat.
+\n
+        \n3) Then step backwards or sideways to encourage them to stand and wait for them to sit.
+\n
+        \n4) Give another treat as soon as they sit.
+\n
+        \n5) After a few repetitions, you can begin saying “sit” right as they begin to sit.
+\n
+        \nThe next option is called luring.
+\n
+        \n1) Get down in front of your puppy, holding a treat as a lure.
+\n
+        \n2) Put the treat right in front of the pup’s nose, then slowly lift the food above their head. They will probably sit as they lift their head to nibble at the treat.
+\n
+        \n3) Allow them to eat the treat when their bottom touches the ground.
+\n
+        \n4) Repeat one or two times with the food lure, then remove the food and use just your empty hand, but continue to reward the puppy after they sit.
+\n
+        \n5) Once they understand the hand signal to sit, you can begin saying “sit” right before you give the hand signal.
+\n
+        \nNever physically put your puppy into the sitting position; this can be confusing or upsetting to some dogs.
+    \n </string>
+
+
+    //pancake
+    <string name="command4">\n“Down” can be taught very similarly to “sit.”
+\n
+        \n1) You can wait for your dog to lie down (beginning in a boring, small room such as a bathroom can help).
+\n
+        \n2) Capture the behavior by reinforcing your dog with a treat when they lie down.
+\n
+        \n3) Give them the release cue to stand back up (and encouragement with a lure if needed) and then wait for them to lie down again.
+\n
+        \n4) When they are quickly lying down after standing up, you can begin saying “down” right before they do so.
+\n
+        \nYou can also lure a down from a sit or stand.
+\n
+        \n1) Hold a treat in your hand to the dog’s nose and slowly bring it to the floor.
+\n
+        \n2) Give the treat when the dog’s elbows touch the floor to start.
+\n
+        \n3) After a few practices, begin bringing your empty hand to the floor and giving the treat after they lie down.
+\n
+        \n4) When they can reliably follow your hand signal, begin saying “down” as you move your hand.
+\n
+        \n Just like with sitting, never use force to put your dog into a down position.
+    \n </string>
+
+
+    //pizza
+    <string name="command5">\nA puppy who knows the “stay” cue will remain sitting until you ask them to get up by giving another cue, called the “release word.” Staying in place is a duration behavior. The goal is to teach your dog to remain sitting until the release cue is given, then begin adding distance.
+\n
+        \n1) First, teach the release word. Choose which word you will use, such as “OK” or “free.”
+\n
+        \n2) Stand with your puppy in a sit or a stand, toss a treat on the floor, and say your word as they step forward to get the treat.
+\n
+        \n3) Repeat this a couple of times until you can say the word first and then toss the treat after they begin to move. This teaches the dog that the release cue means to move your feet.
+\n
+        \n4) When your dog knows the release cue and how to sit on cue, put them in a sit, turn and face them, and give them a treat.
+\n
+        \n5) Pause, and give them another treat for staying in a sit, then release them.
+\n
+        \n6) Gradually increase the time you wait between treats (it can help to sing the ABC’s in your head and work your way up the alphabet).
+\n
+        \n7) If your dog gets up before the release cue, that’s okay! It just means they aren’t ready to sit for that long, so you can make it easier by going back to a shorter time.
+\n
+        \n8) Once your dog can stay in a sit for several seconds, you can begin adding distance.
+\n
+        \n9) Place them in a sit and say “stay,” take one step back, then step back to the pup and give a treat and your release word.
+\n
+        \n10) Continue building in steps, keeping it easy enough that your dog can stay successful. Practice both facing them and walking away with your back turned (which is more realistic).
+\n
+        \nOnce your dog can stay, you can gradually increase the distance. This is also true for the “sit.” The more solidly they learn it, the longer they can remain sitting. The key is to not expect too much, too soon. Training goals are achieved in increments, so you may need to slow down and focus on one thing at a time. To make sure the training “sticks,” sessions should be short and successful.
+    \n </string>
+
+
+    //burgers
+    <string name="command6">\nTeaching your dog to high five or give paw is a fun way to bond with them. Dogs enjoy enrichment through training, and it also gives you a chance to show off your dog’s tricks to your friends. Check out our step-by-step video guide.
+\n
+    \n1) Step one: preparation
+\n
+    \nIt’s important to start training in a quiet and calm place such as your living room – without any distractions, interruptions or temptations. Both you and your dog need to be happy and relaxed before you start. You’ll also need some rewards ready for your dog and these should be something they really enjoy. You’ll need lots to begin with, so small, tasty treats are a good idea.
+\n
+    \n2) Step two: touch your closed fist
+\n
+    \nTake a treat in a closed fist and hold it out in front of your dog until their paw touches your hand. If you use a grand offering gesture your dog might copy you and do the same with their paw. However, they might sniff or even lick your fist at first, so be prepared to keep your hand still and wait patiently for them to try using their paw.
+\n
+    \nAs they touch your hand with their paw, say your marker word such as ‘yes’ or ‘good’ and release the treat, so your dog learns that when they touch your hand, they get a treat.
+\n
+    \n3) Step three: repeat
+\n
+    \nRepeat until they are touching your closed fist with their paw every time you present it to them. If they’re struggling, take a break and come back to it later. If we take things gently and go at their pace, they’ll be more likely to enjoy learning and remember what they’ve learned.
+\n
+    \n4) Step four: try without a treat
+\n
+    \nHold a closed hand without the treat. Don’t forget to say your marker word when they touch your hand with their paw, and quickly give them a treat from your other hand. Repeat again until they are touching your empty hand every single time.
+\n
+    \n5) Step five: move on to an open hand
+\n
+    \nNow try with an open hand and wait for your dog to tap it with their paw, making sure to mark and reward when they do with a treat from your other hand.
+\n
+    \n6) Step six: introduce a cue for ‘paw’
+\n
+    \nIf you just want to teach your dog to give paw, you can stop here and now add a verbal cue to name the action. Just before you present your hand to your dog say ‘paw’ or similar, and then hold out your open hand for your dog to touch.
+\n
+    \n7) Step seven: move it higher
+\n
+    \nIf you want to teach the ‘high five’ action, move your hand a little higher. Gradually move your hand out a little bit higher each time, so your dog must reach slightly higher for your hand. Repeat, each time gradually moving your hand up a bit more.
+\n
+    \n8)Step eight: time to high five
+\n
+    \nNow hold your hand out in a high five gesture – because your dog is used to touching your hand with their paw and reaching upwards, they should make a ‘high five’ with you.
+\n
+    \nOnce they have learnt this, you can name the command. Say ‘high five’ just before holding up your hand and then say your marker word as soon as your dog taps your hand, then give them their reward right away!
+\n
+    \nFind out more about tricks you can teach your dog.
+    \n </string>
+
+
+    //fries
+    <string name="command7">One of the most important and rewarding things you can do as a pet parent is to train your dog well, but it’s often hard to know how to get started. Since January is national Train Your Dog Month, we thought we’d share some handy tips to help you and your pup get going.
+\n
+    \n1) Use positive reinforcement techniques.
+\n
+\nAlmost all vets agree that positive reinforcement training is the most effective method of dog training. Positive reinforcement training essentially focuses on rewarding your pet for good behavior, rather than punishing bad behavior.
+\nWhenever your dog demonstrates good behavior and responds positively to your commands, reward them! By rewarding good behavior, you’re reinforcing the association between good behavior and good things.
+\nIt’s also important to make sure you’re not inadvertently rewarding unwanted behavior. For example, if your dog barks at you to play or jumps up to say hello, don’t acknowledge it or give in, as this just reinforces the bad behavior. Instead, wait until they’re calmer before giving them attention.
+\n
+    \n2) Find the right reward.
+\n
+\nSome dogs are food-motivated, and will respond very enthusiastically to any sort of edible treat as a reward. Others are pickier: often, soft, chewy treats are preferred to hard, crunchy ones.
+\nSome dogs, however, just aren’t that interested in food at all. If this is the case with your pup, try experimenting with other rewards, like a quick play session with a favorite toy, or even just plenty of affection.
+\n
+    \n3) Consistency is key.
+\n
+\nBeing consistent in your training is incredibly important. This includes consistency in how you’re training your dog—for example, always using the same word, and even the same kind of intonation, when asking them to do something.
+\nEqually important is for everyone in your household to be on the same page. Dogs need consistency to learn new habits, so if you never let the dog on the couch, but your partner does, your pup will just end up confused.
+\n
+    \n4) Train little and often.
+\n
+\nShort training sessions repeated throughout the day are much more effective than longer ones. The American Kennel Club recommends keeping sessions to five minutes maximum; any longer and your dog may become distracted or frustrated.
+\nDogs also often struggle to generalize commands to other places or situations (i.e., understanding that asking for a “sit” at home is the same thing as a “sit” on a busy street), so it’s useful to repeat your training sessions in multiple locations, with different people and with varying levels of distraction, so that your pup learns to respond correctly to the same command all the time.
+\n
+    \n5) Build up in stages.
+\n
+\nStarting small can be helpful, particularly when it comes to more complex behaviors like “stay,” or with behavior modification (when you’re trying to get rid of unwanted behavior).
+\nTry breaking behaviors down into smaller parts. For example, in the beginning, if you’re training “come,” praise and reward your dog when they take even one step towards you. It’s much easier to add on steps and build up to the whole behavior once your pup starts to get the hang of it.
+\n
+    \n6) Make it fun.
+\n
+\nTraining should be fun, both for you and your dog! Always keep it positive, and try mixing things up to keep it interesting, such as incorporating short play sessions into your training in between repetitions.
+\nYou could also consider training your dog to do tricks in addition to regular obedience training. As humans, we naturally respond more enthusiastically to seeing a dog rolling over than we will to a plain old sit—our dogs pick up on that enthusiasm and end up loving to perform tricks for us!
+\n
+    \n7) Praise the small things.
+\n
+\nRemember to always praise your dog for any improvement, no matter how small. It’s easy to get caught up in the end goal of training, but celebrating the little wins is just as important, and will help keep both you and your dog motivated.
+\n
+    \n8) Work training into daily life.
+\n
+\nBy making training part of your usual pet routine, it’s a lot easier to fit in many small sessions. For example, ask your dog to sit or respond to another command before you give them their dinner, take them out for a walk, or play with them.
+\n
+    \n9) Use your hands.
+\n
+\nMuch as we’d wish they could, dogs can’t understand language the same way we do. Many dogs respond better to hand signals than verbal commands, so try combining the two, or even begin with only hand signals and add the verbal command later.
+\n
+    \n10) Consult a dog trainer or attend a training class.
+\n
+\nIf you’re struggling, don’t hesitate to contact a professional dog trainer or join a training class. Generally one of the fastest ways to get results, professional trainers have years of knowledge they can use to help you and your pup. They will have experienced many different types of problems in their career, so they should have ideas on how to address any issues you may be facing.
+\nWhen choosing a trainer, take your time to do a little research. Make sure they use positive reinforcement techniques, and read plenty of reviews or get references if you can.
+\nWe host regular puppy training classes at Small Door – reach out to our team for more details!
+    \n </string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
